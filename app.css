@@ -1,0 +1,23 @@
+header {
+    background-image:url("images/header.jpeg");
+    text-align: center;
+}
+.jumbotron {
+    text-align: center;
+}
+.display-4 {
+    text-transform: uppercase;
+}
+.cc{
+    text-align: center;
+}
+.ce{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
