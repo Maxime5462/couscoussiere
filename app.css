@@ -1,6 +1,11 @@
 header {
     background-image:url("images/header.jpeg");
     text-align: center;
+    background-size: cover;
+    height:500px;
+    color:grey;
+    vertical-align:middle;
+
 }
 .jumbotron {
     text-align: center;
@@ -20,4 +25,6 @@ h4{
 
 footer {
     text-align: center;
+    background-color: black;
+    color:white;
 }
